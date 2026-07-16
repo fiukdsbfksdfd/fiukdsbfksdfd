@@ -1,22 +1,32 @@
 <div align="center">
 
-⋆｡°✩　⋆｡°✩　⋆｡°✩　🌸　⋆｡°✩　⋆｡°✩　⋆｡°✩
+⋆｡°✩ ⋆｡°✩ ⋆｡°✩ 🌸 ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
 # 𝒞𝒽ℯℯ𝓈ℯ
 
-*ℒℴ𝒸𝒶𝓁 𝒜ℐ · ℬℴ𝓉𝓈 · 𝒮ℯ𝓇𝓋ℯ𝓇𝓈 · 𝒲ℯ𝒷𝓈𝒾𝓉ℯ𝓈*
+𝐿𝑜𝑐𝑎𝑙 𝐴𝐼 · 𝐵𝑜𝑡𝑠 · 𝑆𝑒𝑟𝑣𝑒𝑟𝑠 · 𝑊𝑒𝑏𝑠𝑖𝑡𝑒𝑠
 
 ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
 <br>
 
-### ˖⊹ 𝒶𝒷ℴ𝓊𝓉 ⊹˖
+### ˖⊹ 𝐴𝑏𝑜𝑢𝑡 ⊹˖
 
-ℐ 𝒷𝓊𝒾𝓁𝒹 𝓉𝒽𝒾𝓃ℊ𝓈 𝒶𝒸𝓇ℴ𝓈𝓈 𝓉𝒽ℯ 𝓈𝓉𝒶𝒸𝓀 ೀ 𝓁ℴ𝒸𝒶𝓁 ℒℒℳ 𝒾𝓃𝒻ℯ𝓇ℯ𝓃𝒸ℯ 𝓈ℯ𝓉𝓊𝓅𝓈, 𝒶𝓊𝓉ℴ𝓂𝒶𝓉𝒾ℴ𝓃 𝒷ℴ𝓉𝓈, 𝒷𝒶𝒸𝓀ℯ𝓃𝒹 𝓈ℯ𝓇𝓋ℯ𝓇𝓈, 𝒶𝓃𝒹 𝒻𝓇ℴ𝓃𝓉-ℯ𝓃𝒹 𝓌ℯ𝒷 ℯ𝓍𝓅ℯ𝓇𝒾ℯ𝓃𝒸ℯ𝓈~ ✧₊⁎
+𝐼 𝑏𝑢𝑖𝑙𝑑 𝑡ℎ𝑖𝑛𝑔𝑠 𝑎𝑐𝑟𝑜𝑠𝑠 𝑡ℎ𝑒 𝑠𝑡𝑎𝑐𝑘, 𝑙𝑜𝑐𝑎𝑙 𝐿𝐿𝑀 𝑖𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑠𝑒𝑡𝑢𝑝𝑠, 𝑎𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛 𝑏𝑜𝑡𝑠, 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑠𝑒𝑟𝑣𝑒𝑟𝑠, 𝑎𝑛𝑑 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑 𝑤𝑒𝑏 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒𝑠 ✧₊⁎
 
 <br>
 
-### ˖⊹ 𝓈𝓉𝒶𝒸𝓀 ⊹˖
+### ˖⊹ 𝑊ℎ𝑎𝑡 𝐼'𝑚 𝐼𝑛𝑡𝑜 ⊹˖
+
+- 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑖𝑛𝑔 𝑙𝑜𝑐𝑎𝑙 𝐿𝐿𝑀 𝑖𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒 (Powering the next gen)
+- 𝐶𝑙𝑒𝑎𝑛 𝑈𝐼/𝑈𝑋, 𝑔𝑙𝑎𝑠𝑠𝑚𝑜𝑟𝑝ℎ𝑖𝑠𝑚, 𝑚𝑖𝑐𝑟𝑜-𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠
+- 𝐸𝑏𝑖𝑘𝑒𝑠 (My blacked out stark varg and surron ub mogs your fucking tuttio)
+
+<br>
+
+⋆｡°✩ ⋆｡°✩ 🌙 ⋆｡°✩ ⋆｡°✩
+
+### ˖⊹ 𝑆𝑡𝑎𝑐𝑘 ⊹˖
 
 ![React](https://img.shields.io/badge/React-FFD1DC?style=for-the-badge&logo=react&logoColor=6B4C6E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-C9E4FF?style=for-the-badge&logo=typescript&logoColor=3C5A78)
@@ -26,7 +36,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-CDEFFF?style=for-the-badge&logo=css3&logoColor=2A6F97)
 ![Next.js](https://img.shields.io/badge/Next.js-E8D9FF?style=for-the-badge&logo=next.js&logoColor=4B3B6B)
 ![Node.js](https://img.shields.io/badge/Node.js-D4F5D0?style=for-the-badge&logo=node.js&logoColor=3C6B3C)
-![PostgreSQL](https://img.shields.io/badge/SQL-C7F0DB?style=for-the-badge&logo=postgresql&logoColor=1F6F4A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C7F0DB?style=for-the-badge&logo=postgresql&logoColor=1F6F4A)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFCBC1?style=for-the-badge&logo=cplusplus&logoColor=7A3B33)
 ![C#](https://img.shields.io/badge/C%23-D6C9FF?style=for-the-badge&logo=sharp&logoColor=4A3B7A)
 ![PowerShell](https://img.shields.io/badge/PowerShell-C9D6FF?style=for-the-badge&logo=powershell&logoColor=33418A)
@@ -35,17 +45,17 @@
 
 <br>
 
-⋆｡°✩ ⋆｡°✩ 🌙 ⋆｡°✩ ⋆｡°✩
+⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
-### ˖⊹ 𝒸ℴ𝓃𝓉𝒶𝒸𝓉 ⊹˖
+### ˖⊹ 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 ⊹˖
 
-**𝒟𝒾𝓈𝒸ℴ𝓇𝒹** : `kernal.sys`
-**ℰ𝓂𝒶𝒾𝓁** : dfgsdfgsdgdfs831@gmail.com
+**𝐷𝑖𝑠𝑐𝑜𝑟𝑑** : `kernal.sys`
+**𝐸𝑚𝑎𝑖𝑙** : dfgsdfgsdgdfs831@gmail.com
 
 <br>
 
 ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
-<sub>*𝒶𝓁𝓌𝒶𝔂𝓈 𝒽𝒶𝓅𝓅𝔂 𝓉ℴ 𝓌ℴ𝓇𝓀 𝒻ℴ𝓇 𝒸𝓇𝔂𝓅𝓉ℴ ⋆ ℯ𝓉𝒽, 𝓁𝓉𝒸, 𝒷𝓉𝒸* ✧˖°</sub>
+<sub>𝐴𝑙𝑤𝑎𝑦𝑠 ℎ𝑎𝑝𝑝𝑦 𝑡𝑜 𝑤𝑜𝑟𝑘 𝑓𝑜𝑟 𝑐𝑟𝑦𝑝𝑡𝑜 — 𝐸𝑇𝐻, 𝐿𝑇𝐶, 𝐵𝑇𝐶</sub>
 
 </div>
